@@ -14,7 +14,7 @@
         android:layout_marginTop="165dp"
         android:layout_marginEnd="17dp"
         android:layout_marginBottom="196dp"
-        android:contentDescription="Rabbit"
+        android:contentDescription="@string/Rabbit"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
